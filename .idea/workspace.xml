@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e83824cd-638e-48bb-906c-baba6e6f96b5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/day03/课下/练习/练习.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Class_27.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Class_27.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day03/课下/test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day03/课下/练习/练习1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day03/课下/作业/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/day03/课下/作业/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day03/课下/作业/股票查询程序开发.py" beforeDir="false" afterPath="$PROJECT_DIR$/day03/课下/作业/股票查询程序开发.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,8 +16,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day03/课下/作业/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="261">
-              <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+            <state relative-caret-position="209">
+              <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -29,12 +25,13 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/day03/课下/作业/股票查询程序开发.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1497">
-              <caret line="94" column="24" lean-forward="true" selection-start-line="94" selection-start-column="24" selection-end-line="94" selection-end-column="24" />
+            <state relative-caret-position="193">
+              <caret line="33" selection-start-line="33" selection-end-line="33" />
               <folding>
-                <element signature="e#535#621#0" />
-                <element signature="e#904#919#1" />
-                <element signature="e#654#783#0" />
+                <element signature="e#283#346#0" />
+                <element signature="e#546#632#0" />
+                <element signature="e#1543#1683#0" />
+                <element signature="e#1680#1688#1" />
               </folding>
             </state>
           </provider>
@@ -44,7 +41,7 @@
         <entry file="file://$PROJECT_DIR$/day03/课下/作业/stock_data.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="361">
-              <caret line="19" column="136" lean-forward="true" selection-start-line="19" selection-start-column="136" selection-end-line="19" selection-end-column="136" />
+              <caret line="19" column="136" selection-start-line="19" selection-start-column="136" selection-end-line="19" selection-end-column="136" />
             </state>
           </provider>
         </entry>
@@ -227,6 +224,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="股票查询程序开发" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Class_27" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day03/课下/作业" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day03/课下/作业/股票查询程序开发.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Class_27" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -293,16 +312,17 @@
       <updated>1564130104325</updated>
       <workItem from="1564130105869" duration="3662000" />
       <workItem from="1564151365621" duration="28040000" />
+      <workItem from="1564180380543" duration="1970000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31702000" />
+    <option name="totallyTimeSpent" value="33672000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13006397" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13113007" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -333,15 +353,97 @@
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/day03/课下/作业/股票查询程序开发.py</url>
-          <line>32</line>
-          <option name="timeStamp" value="3" />
+          <line>96</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/day03/课下/作业/股票查询程序开发.py</url>
+          <line>97</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/day03/课下/作业/股票查询程序开发.py</url>
+          <line>98</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/day03/课下/作业/股票查询程序开发.py</url>
+          <line>99</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/day03/课下/作业/股票查询程序开发.py</url>
+          <line>102</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/day03/课下/作业/股票查询程序开发.py</url>
+          <line>103</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/day03/课下/作业/股票查询程序开发.py</url>
+          <line>104</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/day03/课下/作业/股票查询程序开发.py</url>
+          <line>106</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/day03/课下/作业/股票查询程序开发.py</url>
+          <line>107</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/day03/课下/作业/股票查询程序开发.py</url>
+          <line>109</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/day03/课下/作业/股票查询程序开发.py</url>
+          <line>110</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/day03/课下/作业/股票查询程序开发.py</url>
+          <line>108</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/day03/课下/作业/股票查询程序开发.py</url>
+          <line>105</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/day03/课下/作业/股票查询程序开发.py</url>
+          <line>111</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/day03/课下/作业/股票查询程序开发.py</url>
+          <line>112</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/day03/课下/作业/股票查询程序开发.py</url>
+          <line>113</line>
+          <option name="timeStamp" value="23" />
         </line-breakpoint>
       </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Class_27$.coverage" NAME="股票查询程序开发 Coverage Results" MODIFIED="1564179987797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day03/课下/作业" />
-    <SUITE FILE_PATH="coverage/Class_27$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1564179878413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day03/课下/作业" />
+    <SUITE FILE_PATH="coverage/Class_27$.coverage" NAME="股票查询程序开发 Coverage Results" MODIFIED="1564182285945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day03/课下/作业" />
+    <SUITE FILE_PATH="coverage/Class_27$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1564181991531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day03/课下/作业" />
     <SUITE FILE_PATH="coverage/Class_27$1.coverage" NAME="练习1 Coverage Results" MODIFIED="1564163388189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day03/课下/练习" />
     <SUITE FILE_PATH="coverage/Class_27$test.coverage" NAME="test Coverage Results" MODIFIED="1564165720891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day03/课下" />
   </component>
@@ -387,16 +489,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day03/课下/练习/file/user_info.txt.bak">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day03/课下/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/day03/课下/练习/file/user_info.txt.bak" />
+    <entry file="file://$PROJECT_DIR$/day03/课下/test.py" />
     <entry file="file://$PROJECT_DIR$/day03/课下/练习/file/user_info.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
@@ -414,25 +508,26 @@
     <entry file="file://$PROJECT_DIR$/day03/课下/作业/stock_data.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
-          <caret line="19" column="136" lean-forward="true" selection-start-line="19" selection-start-column="136" selection-end-line="19" selection-end-column="136" />
+          <caret line="19" column="136" selection-start-line="19" selection-start-column="136" selection-end-line="19" selection-end-column="136" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/day03/课下/作业/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        <state relative-caret-position="209">
+          <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/day03/课下/作业/股票查询程序开发.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1497">
-          <caret line="94" column="24" lean-forward="true" selection-start-line="94" selection-start-column="24" selection-end-line="94" selection-end-column="24" />
+        <state relative-caret-position="193">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
           <folding>
-            <element signature="e#535#621#0" />
-            <element signature="e#904#919#1" />
-            <element signature="e#654#783#0" />
+            <element signature="e#283#346#0" />
+            <element signature="e#546#632#0" />
+            <element signature="e#1543#1683#0" />
+            <element signature="e#1680#1688#1" />
           </folding>
         </state>
       </provider>
