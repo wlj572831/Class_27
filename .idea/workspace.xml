@@ -17,46 +17,37 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day04/课下/练习/3.装饰器，加三次身份验证.py">
+        <entry file="file://$PROJECT_DIR$/day04/课下/练习/4.装饰器-文件读取身份认证.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="43" selection-start-line="37" selection-end-line="43" />
+            <state relative-caret-position="437">
+              <caret line="34" column="16" lean-forward="true" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/day04/课下/练习/4.装饰器-文件读取身份认证.py">
+        <entry file="file://$PROJECT_DIR$/day04/课下/作业/模拟博客园登录.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+            <state relative-caret-position="338">
+              <caret line="59" column="14" lean-forward="true" selection-start-line="59" selection-start-column="14" selection-end-line="59" selection-end-column="28" />
+              <folding>
+                <element signature="e#232#336#0" />
+                <element signature="e#545#1101#0" />
+                <element signature="e#912#1118#0" />
+                <element signature="e#1103#1139#0" />
+                <element signature="e#1166#1202#0" />
+                <element signature="e#1232#1268#0" />
+                <element signature="e#1300#1336#0" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day04/课下/练习/file/user">
+        <entry file="file://$PROJECT_DIR$/day04/课下/作业/register">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day04/课下/练习/2.在装饰器前后添加代码.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day04/课下/练习/1.装饰器的定义.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="10" selection-start-line="10" selection-end-line="18" selection-end-column="16" />
+            <state relative-caret-position="78">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -103,13 +94,15 @@
         <option value="$PROJECT_DIR$/day04/课下/练习/1.装饰器的定义.py" />
         <option value="$PROJECT_DIR$/day04/课下/练习/3.装饰器，加三次身份验证.py" />
         <option value="$PROJECT_DIR$/day04/课下/练习/file/user" />
+        <option value="$PROJECT_DIR$/day04/课下/练习/file/装饰器-文件读取身份认证-2.py" />
+        <option value="$PROJECT_DIR$/day04/课下/作业/register" />
         <option value="$PROJECT_DIR$/day04/课下/练习/4.装饰器-文件读取身份认证.py" />
+        <option value="$PROJECT_DIR$/day04/课下/作业/模拟博客园登录.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="113" />
-    <option name="y" value="21" />
+    <option name="x" value="419" />
     <option name="width" value="1260" />
     <option name="height" value="953" />
   </component>
@@ -131,6 +124,24 @@
             <path>
               <item name="Class_27" type="b2602c69:ProjectViewProjectNode" />
               <item name="Class_27" type="462c0819:PsiDirectoryNode" />
+              <item name="day02" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Class_27" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Class_27" type="462c0819:PsiDirectoryNode" />
+              <item name="day02" type="462c0819:PsiDirectoryNode" />
+              <item name="课下" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Class_27" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Class_27" type="462c0819:PsiDirectoryNode" />
+              <item name="day02" type="462c0819:PsiDirectoryNode" />
+              <item name="课下" type="462c0819:PsiDirectoryNode" />
+              <item name="作业" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Class_27" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Class_27" type="462c0819:PsiDirectoryNode" />
               <item name="day04" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -138,6 +149,13 @@
               <item name="Class_27" type="462c0819:PsiDirectoryNode" />
               <item name="day04" type="462c0819:PsiDirectoryNode" />
               <item name="课下" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Class_27" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Class_27" type="462c0819:PsiDirectoryNode" />
+              <item name="day04" type="462c0819:PsiDirectoryNode" />
+              <item name="课下" type="462c0819:PsiDirectoryNode" />
+              <item name="作业" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Class_27" type="b2602c69:ProjectViewProjectNode" />
@@ -145,14 +163,6 @@
               <item name="day04" type="462c0819:PsiDirectoryNode" />
               <item name="课下" type="462c0819:PsiDirectoryNode" />
               <item name="练习" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Class_27" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Class_27" type="462c0819:PsiDirectoryNode" />
-              <item name="day04" type="462c0819:PsiDirectoryNode" />
-              <item name="课下" type="462c0819:PsiDirectoryNode" />
-              <item name="练习" type="462c0819:PsiDirectoryNode" />
-              <item name="file" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -170,6 +180,9 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Class_27\day04\课下\练习" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\老男孩Python\Class_27\day03\课下\练习\file" />
     </key>
@@ -186,7 +199,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.4.装饰器-文件读取身份认证">
+  <component name="RunManager" selected="Python.模拟博客园登录">
     <configuration name="练习 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Class_27" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -201,6 +214,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="D:\Class_27\day04\课下\练习\1.装饰器的定义.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="模拟博客园登录" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Class_27" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day04/课下/作业" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day04/课下/作业/模拟博客园登录.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -319,57 +354,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="股票查询程序开发" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Class_27" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day03/课下/作业" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day03/课下/作业/股票查询程序开发.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Class_27" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day03/课下/作业" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day03/课下/作业/test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.模拟博客园登录" />
         <item itemvalue="Python.4.装饰器-文件读取身份认证" />
         <item itemvalue="Python.3.装饰器，加三次身份验证" />
         <item itemvalue="Python.2.在装饰器前后添加代码" />
         <item itemvalue="Python.练习 (1)" />
-        <item itemvalue="Python.test (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -388,22 +379,23 @@
       <workItem from="1564180380543" duration="1970000" />
       <workItem from="1564188696428" duration="11954000" />
       <workItem from="1564628213502" duration="18488000" />
+      <workItem from="1564710959192" duration="20567000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64114000" />
+    <option name="totallyTimeSpent" value="84681000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16747573" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4994233" visible="true" weight="0.15210356" />
+      <window_info id="Structure" order="1" sideWeight="0.5005767" side_tool="true" visible="true" weight="0.15210356" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.1407151" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3979239" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33564013" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.5282584" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -448,25 +440,18 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Class_27$2_.coverage" NAME="2.在装饰器前后添加代码 Coverage Results" MODIFIED="1564641320444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day04/课下/练习" />
-    <SUITE FILE_PATH="coverage/Class_27$.coverage" NAME="股票查询程序开发 Coverage Results" MODIFIED="1564195625217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day03/课下/作业" />
+    <SUITE FILE_PATH="coverage/Class_27$.coverage" NAME="模拟博客园登录 Coverage Results" MODIFIED="1564735828510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day04/课下/作业" />
     <SUITE FILE_PATH="coverage/Class_27$test__2_.coverage" NAME="test (2) Coverage Results" MODIFIED="1564190134441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day03/课下/练习" />
     <SUITE FILE_PATH="coverage/Class_27$temp1.coverage" NAME="temp1 Coverage Results" MODIFIED="1564193491083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day03/课下/作业" />
     <SUITE FILE_PATH="coverage/Class_27$3_.coverage" NAME="3.装饰器，加三次身份验证 Coverage Results" MODIFIED="1564650732941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day04/课下/练习" />
     <SUITE FILE_PATH="coverage/Class_27$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1564200239280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day03/课下/作业" />
     <SUITE FILE_PATH="coverage/Class_27$test.coverage" NAME="test Coverage Results" MODIFIED="1564165720891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day03/课下" />
-    <SUITE FILE_PATH="coverage/Class_27$4__.coverage" NAME="4.装饰器-文件读取身份认证 Coverage Results" MODIFIED="1564652876251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day04/课下/练习" />
+    <SUITE FILE_PATH="coverage/Class_27$4__.coverage" NAME="4.装饰器-文件读取身份认证 Coverage Results" MODIFIED="1564734700510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day04/课下/练习" />
     <SUITE FILE_PATH="coverage/Class_27$1.coverage" NAME="练习1 Coverage Results" MODIFIED="1564163388189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day03/课下/练习" />
     <SUITE FILE_PATH="coverage/Class_27$__1_.coverage" NAME="练习 (1) Coverage Results" MODIFIED="1564631374115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day04/课下/练习" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/day03/课下/练习/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/day02/课下/作业/1.三次登录.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="3" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/day03/课上/2.文件读写.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -580,29 +565,66 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/day04/课下/练习/1.装饰器的定义.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
+        <state relative-caret-position="171">
           <caret line="10" selection-start-line="10" selection-end-line="18" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day04/课下/练习/3.装饰器，加三次身份验证.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="43" selection-start-line="37" selection-end-line="43" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/day04/课下/练习/file/user">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
+        <state relative-caret-position="38">
           <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day04/课下/练习/5.装饰器-文件读取身份认证-2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day04/课下/练习/3.装饰器，加三次身份验证.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="722">
+          <caret line="38" selection-start-line="38" selection-end-line="39" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day04/课下/作业/register">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day02/课下/作业/1.三次登录.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-132">
+          <caret selection-end-line="3" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/day04/课下/练习/4.装饰器-文件读取身份认证.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+        <state relative-caret-position="437">
+          <caret line="34" column="16" lean-forward="true" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day04/课下/作业/模拟博客园登录.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="59" column="14" lean-forward="true" selection-start-line="59" selection-start-column="14" selection-end-line="59" selection-end-column="28" />
+          <folding>
+            <element signature="e#232#336#0" />
+            <element signature="e#545#1101#0" />
+            <element signature="e#912#1118#0" />
+            <element signature="e#1103#1139#0" />
+            <element signature="e#1166#1202#0" />
+            <element signature="e#1232#1268#0" />
+            <element signature="e#1300#1336#0" />
+          </folding>
         </state>
       </provider>
     </entry>
