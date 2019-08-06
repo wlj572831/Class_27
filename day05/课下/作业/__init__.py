@@ -8,8 +8,3 @@
 # 2.递归做三级菜单
 
 # 3.递归做二分查找
-
-import re
-
-ret = re.findall('\d+', 'hello123, word456')
-print(ret)
