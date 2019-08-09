@@ -15,7 +15,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -316,16 +316,17 @@
       <workItem from="1565157831020" duration="599000" />
       <workItem from="1565250871448" duration="25000" />
       <workItem from="1565255455485" duration="2565000" />
+      <workItem from="1565316794447" duration="31000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="102526000" />
+    <option name="totallyTimeSpent" value="102557000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7638889" visible="true" weight="0.23300971" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7638889" visible="true" weight="0.23705502" />
       <window_info id="Structure" order="1" sideWeight="0.2361111" side_tool="true" weight="0.15695792" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
