@@ -1,6 +1,7 @@
 #!/usr/bin/python
 # coding:utf-8
 # Create Time 2019-08-06
+# Author ：王刘俊
 
 
 li = [1, 2, 3, 4, 55, 67, 50, 70, 66, 99, 80, 90, 100, 500, 45, 30]
