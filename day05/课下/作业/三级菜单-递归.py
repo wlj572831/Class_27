@@ -1,6 +1,7 @@
 #!/usr/bin/python
 # -*- coding:utf-8 -*-
-# Author ：wangliujun
+# Author ：王刘俊
+# CreateTime：
 
 
 #
@@ -37,13 +38,13 @@ def menu(current_level):
         for i in current_level:
             print(i)
         choice = input('>>请选择(b返回q退出):').strip()
-        if choice.upper() == 'B':return
+        if choice.upper() == 'B':
+            return
         elif choice in current_level:
             if len(current_level[choice]):
                 menu(current_level[choice])
             else:
                 print('已是底层')
                 continue
-
 
 menu(menu_dic)
