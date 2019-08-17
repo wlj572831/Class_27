@@ -29,7 +29,7 @@ def get_size(path):
     return sum_size
 
 
-path = r'E:\Class_27\Class_27'
+path = r'E:\安全\Python22天\第二章作业.txt'
 print(get_size(path))
 # 22978991447
 # 22978991447
