@@ -2,6 +2,7 @@
 # -*- coding:utf-8 -*-
 # Author ：WangLiuJun
 import pickle
+import sys
 
 course_file = r'file/course'  # 存储课程
 user_file = r'file/user'  # 存储用户
@@ -147,15 +148,23 @@ def login():
         return None
 
 
+# ret = login()
+# usr, role = ret[0], ret[2]
+# cls = getattr(sys.modules[__name__], role)
+# print(cls)
+# print(Manager)
+# # obj = getattr(cls, role)(usr)
+# # for index, i in enumerate(cls.menu_list, 1):  # 遍历列表中菜单
+# #     print(index, i[0])
+
 if __name__ == '__main__':
     ret = login()
     if ret:
         while True:
             usr, role = ret[0], ret[2]
-            obj = Student(usr)  # 实例化默认是学生
-            if role.upper() == 'MANAGER':
-                obj = Manager(usr)
-            for index, i in enumerate(obj.menu_list, 1):  # 遍历列表中菜单
+            cls = getattr(sys.modules[__name__], role)
+            obj = cls(usr)
+            for index, i in enumerate(cls.menu_list, 1):  # 遍历列表中菜单
                 print(index, i[0])
             choice = int(input('请选择序号:').strip())
             print('-' * 20)
