@@ -1,0 +1,13 @@
+conf:
+	from conf import settings as cof
+
+core:
+	from  core import main as m		#主程序
+	from core import authentication as au	#登陆认证
+	from core import course as co	#公共类和课程类
+	from core import manager as ma	#管理员类
+	from core import student as stu	#学生类
+
+
+from core.course import Course
+from core. import stu

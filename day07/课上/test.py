@@ -12,6 +12,7 @@ class Son(Foo):
     def func(self):
         print('in son')
 
+
 s = Son()
 s.func()
 # 请说出上面一段代码的输出并解释原因？
