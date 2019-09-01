@@ -25,8 +25,9 @@
 #         return stu
 #
 # obj = Manager.login()  # 用类名可以直接调用这个方法了
-# print(obj.__dict__)
-
+# # print(obj.__dict__)
+# print(obj)
+# print(Manager.login)
 
 # class A:
 #     def func(self):  pass  # 实例方法 self作为默认参数,需要用对象来调用

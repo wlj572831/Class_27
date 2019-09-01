@@ -6,6 +6,7 @@ import os
 from conf import settings as cof
 from core import course as co
 
+
 class Student(co.Public):  # 学生类
     # 存储学生菜单
     menu_list = [
@@ -20,7 +21,7 @@ class Student(co.Public):  # 学生类
         self.course_list = []
 
     @classmethod
-    def init(cls,username):
+    def init(cls, username):
         with open(cof.select_course, mode='rb') as  f:
             while True:
                 try:

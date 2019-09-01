@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e83824cd-638e-48bb-906c-baba6e6f96b5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/day05/课下/作业/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/day05/课下/作业/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day05/课下/作业/二分查找-1(基础，分解步骤).py" beforeDir="false" afterPath="$PROJECT_DIR$/day05/课下/作业/二分查找-1(基础，分解步骤).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day05/课下/作业/随机验证码6位.py" beforeDir="false" afterPath="$PROJECT_DIR$/day05/课下/作业/随机验证码6位.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day08/CourseSelectionSystem/core/student.py" beforeDir="false" afterPath="$PROJECT_DIR$/day08/CourseSelectionSystem/core/student.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day08/课上/女神day8/10.classmethod和staticmethod.py" beforeDir="false" afterPath="$PROJECT_DIR$/day08/课上/女神day8/10.classmethod和staticmethod.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day08/课上/女神day8/16.logging模块.py" beforeDir="false" afterPath="$PROJECT_DIR$/day08/课上/女神day8/16.logging模块.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,54 +14,15 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day05/课下/作业/正则-计算器.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="235">
-              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
-              <folding>
-                <element signature="e#125#563#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day05/课下/作业/三级菜单-递归.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="642">
-              <caret line="40" column="37" selection-start-line="40" selection-start-column="37" selection-end-line="40" selection-end-column="37" />
-              <folding>
-                <element signature="e#827#957#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/day05/课下/作业/__init__.py">
+        <entry file="file://$PROJECT_DIR$/day09/课上/struct/client.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day02/课下/作业/2.三级菜单.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="49" column="10" selection-start-line="49" selection-start-column="10" selection-end-line="49" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day05/课下/作业/二分查找-1(基础，分解步骤).py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="264">
+              <caret line="10" column="52" lean-forward="true" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
+              <folding>
+                <element signature="e#57#70#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -125,14 +87,26 @@
         <option value="$PROJECT_DIR$/day05/课下/作业/正则-计算器.py" />
         <option value="$PROJECT_DIR$/day05/课下/作业/三级菜单-递归.py" />
         <option value="$PROJECT_DIR$/day05/课下/作业/__init__.py" />
+        <option value="$PROJECT_DIR$/day08/课上/女神day8/10.classmethod和staticmethod.py" />
+        <option value="$PROJECT_DIR$/day08/CourseSelectionSystem/core/student.py" />
+        <option value="$PROJECT_DIR$/day08/CourseSelectionSystem/core/main.py" />
+        <option value="$PROJECT_DIR$/day08/课上/女神day8/16.logging模块.py" />
+        <option value="$PROJECT_DIR$/day09/课上/__init__.py" />
+        <option value="$PROJECT_DIR$/day09/课上/socket/server.py" />
+        <option value="$PROJECT_DIR$/day09/课上/UDP连接/server.py" />
+        <option value="$PROJECT_DIR$/day09/课上/UDP连接/client.py" />
+        <option value="$PROJECT_DIR$/day09/课上/7/struct/client.py" />
+        <option value="$PROJECT_DIR$/day09/课上/7/struct/server.py" />
+        <option value="$PROJECT_DIR$/day09/课上/struct/server.py" />
+        <option value="$PROJECT_DIR$/day09/课上/socket/client.py" />
+        <option value="$PROJECT_DIR$/day09/课上/struct/client.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="710" />
-    <option name="y" value="23" />
+    <option name="x" value="853" />
     <option name="width" value="1260" />
-    <option name="height" value="953" />
+    <option name="height" value="1022" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -142,6 +116,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -152,50 +127,32 @@
             <path>
               <item name="Class_27" type="b2602c69:ProjectViewProjectNode" />
               <item name="Class_27" type="462c0819:PsiDirectoryNode" />
-              <item name="day02" type="462c0819:PsiDirectoryNode" />
+              <item name="day09" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Class_27" type="b2602c69:ProjectViewProjectNode" />
               <item name="Class_27" type="462c0819:PsiDirectoryNode" />
-              <item name="day02" type="462c0819:PsiDirectoryNode" />
-              <item name="课下" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Class_27" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Class_27" type="462c0819:PsiDirectoryNode" />
-              <item name="day02" type="462c0819:PsiDirectoryNode" />
-              <item name="课下" type="462c0819:PsiDirectoryNode" />
-              <item name="作业" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Class_27" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Class_27" type="462c0819:PsiDirectoryNode" />
-              <item name="day05" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Class_27" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Class_27" type="462c0819:PsiDirectoryNode" />
-              <item name="day05" type="462c0819:PsiDirectoryNode" />
+              <item name="day09" type="462c0819:PsiDirectoryNode" />
               <item name="课上" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Class_27" type="b2602c69:ProjectViewProjectNode" />
               <item name="Class_27" type="462c0819:PsiDirectoryNode" />
-              <item name="day05" type="462c0819:PsiDirectoryNode" />
-              <item name="课下" type="462c0819:PsiDirectoryNode" />
+              <item name="day09" type="462c0819:PsiDirectoryNode" />
+              <item name="课上" type="462c0819:PsiDirectoryNode" />
+              <item name="struct" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Class_27" type="b2602c69:ProjectViewProjectNode" />
               <item name="Class_27" type="462c0819:PsiDirectoryNode" />
-              <item name="day05" type="462c0819:PsiDirectoryNode" />
-              <item name="课下" type="462c0819:PsiDirectoryNode" />
-              <item name="作业" type="462c0819:PsiDirectoryNode" />
+              <item name="day09" type="462c0819:PsiDirectoryNode" />
+              <item name="课上" type="462c0819:PsiDirectoryNode" />
+              <item name="UDP连接" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -204,14 +161,15 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Class_27\day09\课上" />
+      <recent name="D:\Class_27\day04\课下\练习" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\老男孩Python\Class_27\day03\课下\练习\file" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Class_27\day04\课下\练习" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -226,29 +184,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.三级菜单-递归">
-    <configuration name="正则-计算器" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Class_27" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day05/课下/作业" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day05/课下/作业/正则-计算器.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.client (2)">
     <configuration name="三级菜单-递归" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Class_27" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -263,28 +199,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day05/课下/作业/三级菜单-递归.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="二分查找" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Class_27" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day05/课上" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\Class_27\day05\课上\递归二分查找.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -337,7 +251,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="client (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Class_27" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -345,12 +259,100 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day05/课下/作业" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day09/课上/UDP连接" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day05/课下/作业/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day09/课上/UDP连接/client.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="client (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Class_27" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day09/课上/struct" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day09/课上/struct/client.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="client" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Class_27" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day09/课上/socket" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day09/课上/socket/client.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="server (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Class_27" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day09/课上/UDP连接" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day09/课上/UDP连接/server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="server (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Class_27" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day09/课上/struct" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day09/课上/struct/server.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -361,11 +363,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.三级菜单-递归" />
-        <item itemvalue="Python.正则-计算器" />
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.计算器" />
-        <item itemvalue="Python.二分查找" />
+        <item itemvalue="Python.client (2)" />
+        <item itemvalue="Python.server (2)" />
+        <item itemvalue="Python.server (1)" />
+        <item itemvalue="Python.client (1)" />
+        <item itemvalue="Python.client" />
       </list>
     </recent_temporary>
   </component>
@@ -393,21 +395,23 @@
       <workItem from="1565255455485" duration="2565000" />
       <workItem from="1565316794447" duration="31000" />
       <workItem from="1565384417318" duration="21169000" />
+      <workItem from="1567265648321" duration="465000" />
+      <workItem from="1567300365059" duration="13912000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="123726000" />
+    <option name="totallyTimeSpent" value="138103000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7638889" visible="true" weight="0.116204694" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7638889" visible="true" weight="0.09168444" />
       <window_info id="Structure" order="1" sideWeight="0.2361111" side_tool="true" weight="0.15695792" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.31236443" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.106290676" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.32410613" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -425,13 +429,13 @@
       <window_info anchor="right" id="Database" order="4" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7638889" visible="true" weight="0.15695792" />
-      <window_info id="Structure" order="1" sideWeight="0.2361111" side_tool="true" visible="true" weight="0.15695792" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7638889" visible="true" weight="0.17377399" />
+      <window_info id="Structure" order="1" sideWeight="0.2361111" side_tool="true" weight="0.15695792" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33564013" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.5282584" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.20173536" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.32410613" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -475,36 +479,32 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Class_27$.coverage" NAME="计算器 Coverage Results" MODIFIED="1565385790905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day05/课下/作业" />
-    <SUITE FILE_PATH="coverage/Class_27$_2__.coverage" NAME="二分查找-2(使用循环) Coverage Results" MODIFIED="1565078661971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day05/课下/作业" />
-    <SUITE FILE_PATH="coverage/Class_27$test__2_.coverage" NAME="test (2) Coverage Results" MODIFIED="1564190134441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day03/课下/练习" />
-    <SUITE FILE_PATH="coverage/Class_27$_.coverage" NAME="三级菜单-递归 Coverage Results" MODIFIED="1565405847338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day05/课下/作业" />
-    <SUITE FILE_PATH="coverage/Class_27$temp1.coverage" NAME="temp1 Coverage Results" MODIFIED="1564193491083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day03/课下/作业" />
-    <SUITE FILE_PATH="coverage/Class_27$2_.coverage" NAME="2.在装饰器前后添加代码 Coverage Results" MODIFIED="1564641320444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day04/课下/练习" />
-    <SUITE FILE_PATH="coverage/Class_27$1.coverage" NAME="练习1 Coverage Results" MODIFIED="1564163388189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day03/课下/练习" />
-    <SUITE FILE_PATH="coverage/Class_27$test.coverage" NAME="test Coverage Results" MODIFIED="1565398997098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day05/课下/作业" />
     <SUITE FILE_PATH="coverage/Class_27$_2.coverage" NAME="二分查找-2 Coverage Results" MODIFIED="1565061415518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day05/课下/作业" />
+    <SUITE FILE_PATH="coverage/Class_27$client.coverage" NAME="client Coverage Results" MODIFIED="1567317051470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day09/课上/socket" />
     <SUITE FILE_PATH="coverage/Class_27$__1_.coverage" NAME="练习 (1) Coverage Results" MODIFIED="1564631374115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day04/课下/练习" />
-    <SUITE FILE_PATH="coverage/Class_27$3_.coverage" NAME="3.装饰器，加三次身份验证 Coverage Results" MODIFIED="1564650732941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day04/课下/练习" />
-    <SUITE FILE_PATH="coverage/Class_27$_1__.coverage" NAME="二分查找-1(基础，分解步骤) Coverage Results" MODIFIED="1565061812840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day05/课下/作业" />
+    <SUITE FILE_PATH="coverage/Class_27$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1567311198303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day09/课上" />
+    <SUITE FILE_PATH="coverage/Class_27$server__1_.coverage" NAME="server (1) Coverage Results" MODIFIED="1567324456698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day09/课上/UDP连接" />
+    <SUITE FILE_PATH="coverage/Class_27$_2__.coverage" NAME="二分查找-2(使用循环) Coverage Results" MODIFIED="1565078661971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day05/课下/作业" />
+    <SUITE FILE_PATH="coverage/Class_27$.coverage" NAME="计算器 Coverage Results" MODIFIED="1565385790905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day05/课下/作业" />
+    <SUITE FILE_PATH="coverage/Class_27$temp1.coverage" NAME="temp1 Coverage Results" MODIFIED="1564193491083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day03/课下/作业" />
+    <SUITE FILE_PATH="coverage/Class_27$1.coverage" NAME="练习1 Coverage Results" MODIFIED="1564163388189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day03/课下/练习" />
+    <SUITE FILE_PATH="coverage/Class_27$server__2_.coverage" NAME="server (2) Coverage Results" MODIFIED="1567331581358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day09/课上/struct" />
     <SUITE FILE_PATH="coverage/Class_27$_3__.coverage" NAME="二分查找-3(使用递归) Coverage Results" MODIFIED="1565258154896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day05/课下/作业" />
-    <SUITE FILE_PATH="coverage/Class_27$4__.coverage" NAME="4.装饰器-文件读取身份认证 Coverage Results" MODIFIED="1564734700510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day04/课下/练习" />
-    <SUITE FILE_PATH="coverage/Class_27$6.coverage" NAME="随机验证码6位 Coverage Results" MODIFIED="1565058622349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day05/课下/作业" />
+    <SUITE FILE_PATH="coverage/Class_27$server.coverage" NAME="server Coverage Results" MODIFIED="1567317024479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day09/课上/socket" />
+    <SUITE FILE_PATH="coverage/Class_27$test.coverage" NAME="test Coverage Results" MODIFIED="1565398997098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day05/课下/作业" />
     <SUITE FILE_PATH="coverage/Class_27$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1564200239280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day03/课下/作业" />
-    <SUITE FILE_PATH="coverage/Class_27$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1565062074278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day05/课下/作业" />
+    <SUITE FILE_PATH="coverage/Class_27$2_.coverage" NAME="2.在装饰器前后添加代码 Coverage Results" MODIFIED="1564641320444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day04/课下/练习" />
+    <SUITE FILE_PATH="coverage/Class_27$_1__.coverage" NAME="二分查找-1(基础，分解步骤) Coverage Results" MODIFIED="1565061812840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day05/课下/作业" />
+    <SUITE FILE_PATH="coverage/Class_27$4__.coverage" NAME="4.装饰器-文件读取身份认证 Coverage Results" MODIFIED="1564734700510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day04/课下/练习" />
+    <SUITE FILE_PATH="coverage/Class_27$test__2_.coverage" NAME="test (2) Coverage Results" MODIFIED="1564190134441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day03/课下/练习" />
+    <SUITE FILE_PATH="coverage/Class_27$client__2_.coverage" NAME="client (2) Coverage Results" MODIFIED="1567331584277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day09/课上/struct" />
+    <SUITE FILE_PATH="coverage/Class_27$_.coverage" NAME="三级菜单-递归 Coverage Results" MODIFIED="1565405847338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day05/课下/作业" />
+    <SUITE FILE_PATH="coverage/Class_27$3_.coverage" NAME="3.装饰器，加三次身份验证 Coverage Results" MODIFIED="1564650732941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day04/课下/练习" />
+    <SUITE FILE_PATH="coverage/Class_27$6.coverage" NAME="随机验证码6位 Coverage Results" MODIFIED="1565058622349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day05/课下/作业" />
+    <SUITE FILE_PATH="coverage/Class_27$10_classmethodstaticmethod.coverage" NAME="10.classmethod和staticmethod Coverage Results" MODIFIED="1567300959093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day08/课上/女神day8" />
+    <SUITE FILE_PATH="coverage/Class_27$client__1_.coverage" NAME="client (1) Coverage Results" MODIFIED="1567324450636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day09/课上/UDP连接" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/day03/课下/练习/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/day03/课上/2.文件读写.py" />
-    <entry file="file://$PROJECT_DIR$/day03/课下/练习/file/count_word" />
-    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/-1432527462/builtins.py" />
-    <entry file="file://$PROJECT_DIR$/day03/课下/练习/file/count_word.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="50" selection-start-line="2" selection-start-column="50" selection-end-line="2" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/day03/课下/练习/file/change_file.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
@@ -674,13 +674,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day05/课下/作业/二分查找-1(基础，分解步骤).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/day05/课下/作业/随机验证码6位.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -688,23 +681,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day05/课下/作业/正则表达式.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day05/课下/作业/正则-计算器.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
-          <folding>
-            <element signature="e#125#563#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/day05/课下/作业/正则表达式.py" />
     <entry file="file://$PROJECT_DIR$/day02/课下/作业/1.三次登录.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
@@ -712,27 +689,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day05/课下/作业/test.py">
+    <entry file="file://$PROJECT_DIR$/day05/课下/作业/test.py" />
+    <entry file="file://$PROJECT_DIR$/day05/课下/作业/正则-计算器.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="13" column="47" lean-forward="true" selection-start-line="13" selection-start-column="47" selection-end-line="13" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day02/课下/作业/2.三级菜单.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="49" column="10" selection-start-line="49" selection-start-column="10" selection-end-line="49" selection-end-column="10" />
+        <state relative-caret-position="513">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/day05/课下/作业/三级菜单-递归.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="642">
-          <caret line="40" column="37" selection-start-line="40" selection-start-column="37" selection-end-line="40" selection-end-column="37" />
-          <folding>
-            <element signature="e#827#957#0" />
-          </folding>
+        <state relative-caret-position="760">
+          <caret line="40" column="33" selection-start-line="40" selection-start-column="33" selection-end-line="40" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day02/课下/作业/2.三级菜单.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="931">
+          <caret line="49" column="10" selection-start-line="49" selection-start-column="10" selection-end-line="49" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day05/课下/作业/二分查找-1(基础，分解步骤).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
@@ -740,6 +722,141 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
           <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day08/课上/女神day8/10.classmethod和staticmethod.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="34" selection-start-line="34" selection-end-line="35" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day08/课上/女神day8/17.异常处理.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day08/CourseSelectionSystem/conf/settings.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day08/CourseSelectionSystem/bin/start.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day08/CourseSelectionSystem/core/authentication.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day08/课上/女神day8/15.软件的开发规范.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day08/CourseSelectionSystem/core/student.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="6" column="29" lean-forward="true" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+          <folding>
+            <element signature="e#62#75#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day08/CourseSelectionSystem/core/course.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#63#76#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day08/CourseSelectionSystem/core/manager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="32" lean-forward="true" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+          <folding>
+            <element signature="e#63#73#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day08/课上/女神day8/16.logging模块.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="17" column="28" lean-forward="true" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+          <folding>
+            <element signature="e#666#680#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day09/课上/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" selection-start-line="6" selection-end-line="8" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day08/CourseSelectionSystem/core/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+          <folding>
+            <element signature="e#63#73#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day09/课上/UDP连接/client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" selection-start-line="4" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="e#56#69#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day09/课上/UDP连接/server.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day09/课上/socket/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day09/课上/socket/server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="35" lean-forward="true" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day09/课上/socket/client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+          <folding>
+            <element signature="e#56#69#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day09/课上/struct/server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+          <folding>
+            <element signature="e#56#69#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day09/课上/struct/client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="10" column="52" lean-forward="true" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
+          <folding>
+            <element signature="e#57#70#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
