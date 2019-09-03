@@ -22,19 +22,17 @@ import socket
 
 import socket
 
-sk = socket.socket()
-sk.connect(('192.168.36.137', 7777))
+sk = socket.socket()  # 1.创建socket 对象
+sk.connect(('127.0.0.1', 7777))  # 2.连接服务
 while True:
     try:
-        msg = sk.recv(1024)
-        if msg == b'':
+        msg = sk.recv(1024).decode('utf-8')
+        if msg.upper() == 'Q':
             break
-        msg = msg.decode('utf-8')
         print(msg)
         mess = input('>>>>')
-        if mess.upper() == 'Q':
-            break
         send_msa = sk.send(mess.encode('utf-8'))
+        if mess.upper() == 'Q': break
     except ConnectionAbortedError:
         print('对方已断开连接')
         break
