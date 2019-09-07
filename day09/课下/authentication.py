@@ -5,13 +5,14 @@
 # 注册登录类
 import setting as se
 
-class Authentication:   #注册登录类
+
+class Authentication:  # 注册登录类
     class Login:
         def __init__(self, name):
             self.name = name
 
         @staticmethod
-        def login():    #登录方法
+        def login():  # 登录方法
             for i in range(3):
                 with open(se.user_info, mode='r', encoding='utf-8') as  f:
                     input_usr = input('请输入用户名:').strip()
@@ -25,6 +26,3 @@ class Authentication:   #注册登录类
             else:
                 print('登录失败')
                 return
-
-        def regedit(self):
-
