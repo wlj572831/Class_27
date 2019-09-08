@@ -1,4 +1,3 @@
-<<<<<<< HEAD:day07/课下/选课作业.py
 #!/usr/bin/python
 # -*- coding:utf-8 -*-
 # Author ：WangLiuJun
@@ -212,7 +211,6 @@ if __name__ == '__main__':
             choice = int(input('请选择序号:').strip())
             func = obj.menu_list[choice - 1][1]  # 取出选择序号对应的方法名，字符串类型
             getattr(obj, func)()  # 执行对象中的方法
-=======
 #!/usr/bin/python
 # -*- coding:utf-8 -*-
 # Author ：WangLiuJun
@@ -386,4 +384,3 @@ if __name__ == '__main__':
             func = obj.menu_list[choice - 1][1]  # 取出选择序号对应的方法名，字符串类型
             getattr(obj, func)()  # 执行对象中的方法
             print('-' * 20)
->>>>>>> b76ef598e2a14dd66ceee6fb5202f9fb9bd59f0a:day07/课下/王刘俊_day07_作业/选课作业.py
