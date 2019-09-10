@@ -8,8 +8,6 @@ base_dir = os.path.dirname(os.path.dirname(__file__))  # 获取当前文件所�
 sys.path.append(base_dir)
 
 from core import main as m
-from core import manager as ma
-from core import student as stu
 from core.course import *
 from core.student import *
 

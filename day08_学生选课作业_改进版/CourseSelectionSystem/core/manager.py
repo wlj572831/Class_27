@@ -25,15 +25,17 @@ class Manager(co.Public):  # 管理员
     def init(cls, username):
         return cls(username)  # 返回实例化对象
 
+    def pickle_dump(self, obj, filename):  # dump函数
+        with open(filename, mode='ab') as f:
+            pickle.dump(obj, f)
+
     def create_course(self):
         name = input('课程名:')
         price = input('课程价格:')
         cycle = input('课程周期：')
         teacher = input('老师：')
         course = co.Course(name, price, cycle, teacher)  # 创建新的课程对象
-        with open(cof.course_file, 'ab') as f:
-            pickle.dump(course, f)
-            print('课程创建成功')  # 创建课程
+        self.pickle_dump(course, cof.course_file)  # 把课程对象存入课程文件中
 
     def create_stu(self):  # 创建学生账号
         user = input('请输入学生用户名:').strip()
@@ -44,32 +46,13 @@ class Manager(co.Public):  # 管理员
                 f.write('\n%s|%s|%s' % (user, pwd, 'Student'))
                 print('用户%s创建成功' % user)
             stu_obj = stu.Student(user)
-            with open(cof.select_course, mode='ab') as f:
-                pickle.dump(stu_obj, f)
+            self.pickle_dump(stu_obj, cof.select_course)
         else:
             print('帐号密码格式不符合')
 
     def show_students(self):  # 查看所有学生
-        with open(cof.select_course, mode='rb') as f:
-            n = 1
-            while True:
-                try:
-                    obj = pickle.load(f)
-                    print('%s %s' % (n, obj.name))
-                    n += 1
-                except EOFError:
-                    print('-' * 50)
-                    break
+        self.pickle_load(cof.select_course)
 
     def show_sit(self):  # 查看所有选课情况
-        with open(cof.select_course, 'rb') as  f:
-            n = 1
-            while True:
-                try:
-                    stu_obj = pickle.load(f)
-                    print('%s 用户:%s\t' % (n, stu_obj.name), end='所选课程:')
-                    for i in stu_obj.course_list: print(i.name, end='  ')
-                    n += 1
-                    print()
-                except EOFError:
-                    break
+        for index, stu_obj in enumerate(self.pickle_load_generator(cof.select_course)):
+            print(index, repr(stu_obj))
