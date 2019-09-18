@@ -1,0 +1,26 @@
+#!/usr/bin/python
+# -*- coding:utf-8 -*-
+# Author ：wangliujun
+
+# import os
+# 进程在操作系统在的唯一标识 os.getpid()
+
+import time
+from multiprocessing import Process
+
+
+def fun1():
+    print(123)
+    time.sleep(1)
+    print(456)
+
+
+def fun2():
+    print(777)
+    time.sleep(1)
+    print(789)
+
+
+if __name__ == '__main__':
+    Process(target=fun1).start()
+    Process(target=fun2).start()
