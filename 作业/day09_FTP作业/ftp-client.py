@@ -146,7 +146,7 @@ def choose_opt(opt_lst):  # 选择菜单
 
 
 sk = socket.socket()
-sk.connect(('127.0.0.1', 9000))
+sk.connect(('192.168.31.248', 9000))
 
 opt_lst = [('登录', login), ('注册', register), ('退出', myquit)]
 func = choose_opt(opt_lst)
