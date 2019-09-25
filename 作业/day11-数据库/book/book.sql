@@ -81,5 +81,5 @@ update book set author='alexsb' where author='alex';
 --将所有2017年出版的图书从数据库中删除
 delete from book where year(pub_date)= '2017';
 
--- 1515.有文件如下，请根据链接自学pymysql模块，使用python写代码将文件中的数据写入数据库
+-- 15.有文件如下，请根据链接自学pymysql模块，使用python写代码将文件中的数据写入数据库
 
