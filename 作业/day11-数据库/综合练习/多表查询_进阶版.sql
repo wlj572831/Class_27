@@ -147,9 +147,40 @@ group by student_id
 having cou_cour >= 2;
 
 -- 21、查询全部学生都选修的课程的课程号和课程名；
+SELECT course_id, co.cname 
+FROM score
+LEFT JOIN course co ON co.cid = score.course_id 
+GROUP BY course_id 
+HAVING COUNT( student_id ) = ( SELECT COUNT( sid ) FROM student );
 
 
 -- 22、查询没学过“叶平”老师讲授的任一门课程的学生姓名；
+SELECT sid, sname 
+FROM student 
+WHERE sid NOT IN
+	(SELECT student_id FROM score sc 
+	INNER JOIN course co ON co.cid = sc.course_id
+	INNER JOIN teacher tea ON tea.tid = co.teacher_id
+	WHERE tea.tname = '李平老师' 
+	GROUP BY student_id 
+	);
+
 -- 23、查询两门以上不及格课程的同学的学号及其平均成绩；
+SELECT student_id,COUNT(num) no_pass,
+	(SELECT AVG(A.num) FROM score A WHERE A.student_id = sc.student_id  
+	 GROUP BY A.student_id ) '平均分'
+FROM score sc
+WHERE num <60
+GROUP BY student_id HAVING no_pass > 1 ;
+
 -- 24、检索“004”课程分数小于60，按分数降序排列的同学学号；
+SELECT stu.sid, sname, num FROM score sc
+LEFT JOIN student stu ON stu.sid = sc.student_id
+WHERE course_id = '004' AND num < 60
+ORDER BY num DESC;
+
 -- 25、删除“002”同学的“001”课程的成绩；
+SELECT * FROM score
+-- DELETE FROM score
+WHERE student_id = '002' AND course_id = '001';
+
