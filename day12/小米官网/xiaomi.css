@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body a{
+    text-decoration: none;
+    color: #b0b0b0;
+}
+.top-nav{
+    height: 40px;
+    background-color: #333;
+    font-size: 12px;
+    color: #b0b0b0;
+}
+.top-nav-center{
+    width: 80%;
+    font-size: inherit;
+    margin: 0 auto;
+}
+
+.top-nav-center{
+    height: 40px;
+}
+.top-nav-left{
+    float: left;
+}
+.top-nav-right{
+    float: right;
+}
+
+.top-nav a {
+    font-size: inherit;
+    height: inherit;
+    line-height: 40px;
+    display:inline-block;
+}
+.top-nav a:hover{
+    color: white;
+}
+.clearfix:after{
+    content: '';
+    clear: both;
+    display: block;
+}
