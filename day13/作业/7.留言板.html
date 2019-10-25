@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>留言板</title>
+    <style type="text/css">
+        * {
+            padding: 0;
+            margin: 0;
+        }
+
+        .close {
+            display: inline-block;
+            width: 20px;
+            height: 20px;
+            line-height: 20px;
+            text-align: center;
+            cursor: pointer;
+            background-color: rgba(0, 0, 0, .1);
+            margin-left: 20px;
+        }
+    </style>
+</head>
+<body>
+<h1>简易留言板</h1>
+<div id="box">
+</div>
+<textarea id="msg"></textarea>
+<input type="button" id="btn" value="留言">
+<button onclick="sum()">统计</button>
+</body>
+<script type="text/javascript">
+    var oUl = document.createElement('ul');
+    var oBox = document.getElementById('box');
+    oBox.append(oUl);
+
+    var oBtn = document.getElementById('btn');
+    var oMsg = document.getElementById('msg');
+
+    var count = 0;
+    oBtn.onclick = function () {
+        // 点击留言按钮事件操作
+        var oLi = document.createElement('li');
+        oLi.innerHTML = oMsg.value + "<span class='close'>X</span>"
+
+        var olis = document.getElementsByTagName('li');
+        if (olis.length == 0) {
+            oUl.appendChild(oLi);
+            count++;
+        } else {
+            oUl.insertBefore(oLi, olis[0]);
+            count++;
+        }
+        oMsg.value = '';
+
+        var oSpans = document.getElementsByTagName('span');
+
+        for (var i = 0; i < oSpans.length; i++) {
+            oSpans[i].onclick = function () {
+                oUl.removeChild(this.parentNode)
+                count--;
+            }
+        }
+    }
+
+    function sum() {
+        alert('一共发布了' + count + '条留言');
+    }
+
+
+</script>
+</html>
