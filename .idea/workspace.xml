@@ -28,24 +28,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/day12/小米官网/小米官网.html">
+        <entry file="file://$PROJECT_DIR$/day13/作业/5.模态框.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="46" column="21" selection-start-line="46" selection-start-column="21" selection-end-line="46" selection-end-column="21" />
-              <folding>
-                <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day12/小米官网/xiaomi.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="556">
-              <caret line="42" column="19" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
+            <state relative-caret-position="780">
+              <caret line="68" column="41" selection-start-line="68" selection-start-column="41" selection-end-line="68" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -56,8 +42,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -84,7 +70,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/day04/课下/练习/2.在装饰器前后添加代码.py" />
         <option value="$PROJECT_DIR$/day04/课下/练习/1.装饰器的定义.py" />
         <option value="$PROJECT_DIR$/day04/课下/练习/3.装饰器，加三次身份验证.py" />
         <option value="$PROJECT_DIR$/day04/课下/练习/file/user" />
@@ -135,14 +120,14 @@
         <option value="$PROJECT_DIR$/day13/作业/红绿灯.html" />
         <option value="$PROJECT_DIR$/day12/小米官网/xiaomi.css" />
         <option value="$PROJECT_DIR$/day12/小米官网/小米官网.html" />
+        <option value="$PROJECT_DIR$/day13/作业/5.模态框.html" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="527" />
-    <option name="y" value="92" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-27" />
     <option name="width" value="1300" />
-    <option name="height" value="869" />
+    <option name="height" value="954" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -152,6 +137,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -162,25 +148,18 @@
             <path>
               <item name="Class_27" type="b2602c69:ProjectViewProjectNode" />
               <item name="Class_27" type="462c0819:PsiDirectoryNode" />
-              <item name="day12" type="462c0819:PsiDirectoryNode" />
+              <item name="day13" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Class_27" type="b2602c69:ProjectViewProjectNode" />
               <item name="Class_27" type="462c0819:PsiDirectoryNode" />
-              <item name="day12" type="462c0819:PsiDirectoryNode" />
-              <item name="作业_小米商城" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Class_27" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Class_27" type="462c0819:PsiDirectoryNode" />
-              <item name="day12" type="462c0819:PsiDirectoryNode" />
-              <item name="小米官网" type="462c0819:PsiDirectoryNode" />
+              <item name="day13" type="462c0819:PsiDirectoryNode" />
+              <item name="作业" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -378,18 +357,19 @@
       <workItem from="1571451474023" duration="19976000" />
       <workItem from="1571534801954" duration="4442000" />
       <workItem from="1571813412590" duration="2588000" />
-      <workItem from="1571886563807" duration="3930000" />
+      <workItem from="1571886563807" duration="4531000" />
+      <workItem from="1571992608559" duration="2866000" />
+      <workItem from="1571995563684" duration="2000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="199388000" />
+    <option name="totallyTimeSpent" value="202857000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="527" y="92" width="1300" height="869" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7638889" visible="true" weight="0.15241936" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7638889" visible="true" weight="0.15776698" />
       <window_info id="Structure" order="1" sideWeight="0.2361111" side_tool="true" weight="0.15695792" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -490,7 +470,6 @@
     <SUITE FILE_PATH="coverage/Class_27$1.coverage" NAME="练习1 Coverage Results" MODIFIED="1564163388189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day03/课下/练习" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/day09/课上/socket/__init__.py" />
     <entry file="file://$PROJECT_DIR$/day09/课上/socket/server.py" />
     <entry file="file://$PROJECT_DIR$/day09/课上/socket/client.py" />
     <entry file="file://$PROJECT_DIR$/day09/课上/struct/server.py" />
@@ -669,16 +648,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/day13/课上/基础语法.html" />
     <entry file="file://$PROJECT_DIR$/day13/课上/标签操作.html" />
-    <entry file="file://$PROJECT_DIR$/day12/.vscode/settings.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day13/作业/红绿灯.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1007">
-          <caret line="53" column="9" selection-start-line="53" selection-start-column="9" selection-end-line="53" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/day12/.vscode/settings.json" />
     <entry file="file://$PROJECT_DIR$/day12/作业_小米商城/miMall.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="713">
@@ -728,6 +698,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/day13/作业/1.红绿灯.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="722">
+          <caret line="38" column="9" lean-forward="true" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day12/小米官网/小米官网.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/day12/小米官网/xiaomi.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="556">
@@ -735,15 +724,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day12/小米官网/小米官网.html">
+    <entry file="file://$PROJECT_DIR$/day13/作业/5.模态框.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="46" column="21" selection-start-line="46" selection-start-column="21" selection-end-line="46" selection-end-column="21" />
-          <folding>
-            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-          </folding>
+        <state relative-caret-position="780">
+          <caret line="68" column="41" selection-start-line="68" selection-start-column="41" selection-end-line="68" selection-end-column="41" />
         </state>
       </provider>
     </entry>
