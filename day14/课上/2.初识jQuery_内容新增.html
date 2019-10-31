@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script type="text/javascript" src="jQuery3.4.1.js"></script>
+    <style type="text/css">
+        div{
+            width: 100px;
+            height: 100px;
+            background-color: green;
+            margin-top: 20px;
+            display: none;
+        }
+    </style>
+</head>
+<body>
+    <button>操作</button>
+    <div></div>
+    <div></div>
+    <div></div>
+</body>
+<script>
+    //1.点击按钮，显示页面中的三个div，并给div添加文本内容- 原生js
+    // var oBtn = document.getElementsByTagName('button')[0];  //查找button按钮
+    // var divArr = document.getElementsByTagName('div');  //查找div标签数组
+    // oBtn.onclick = function () {    //点击事件
+    //     for (var i=0; i<divArr.length; i++){
+    //         divArr[i].style.display = "block";  //设置块级元素
+    //         divArr[i].innerHTML = "赵云";
+    //     }
+    // }
+
+    //1.1.点击按钮，显示页面中的三个div，并给div添加文本内容 - jQuery
+    // var oBtn = $('button');
+    // var oDiv = $('div');
+    // oBtn.click(function () {
+    //     oDiv.show(2000).html('赵云'); //显示盒子，设置内容(show为展开时间)
+    // })
+</script>
+</html>

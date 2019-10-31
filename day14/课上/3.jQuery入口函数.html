@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script type="text/javascript" src="jQuery3.4.1.js"></script>
+</head>
+<body>
+
+</body>
+<script>
+    window.onload = function () {
+        alert('js原生入口函数1')
+    };
+
+    $(document).ready(function () {
+        alert('jquery入口1')
+    });
+    $(function () {
+        alert('jquery入口2')
+    });
+    $(window).ready(function () {
+        alert('jquery入口3')
+    })
+
+</script>
+</html>

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script type="text/javascript" src="jQuery3.4.1.js">
+
+    </script>
+</head>
+<body>
+
+<div>
+    <ul>
+        <li class="city">北京</li>
+        <li class="city"><a href="">上海</a></li>
+        <li class="city">天津</li>
+    </ul>
+</div>
+
+</body>
+<script>
+    // 1.查找li标签下a标签-js原生
+    // var objs = document.getElementsByClassName('city')
+    // for (var i = 0; i < objs.length; i++) {
+    //     arry_a = objs[i].getElementsByTagName('a');
+    //     if (arry_a.length > 0) {
+    //         console.log(objs[i])
+    //     }
+    // }
+    // 1.查找li标签下a标签-jQuery
+    // var obj = $('li').has('a')[0]
+    // console.log(obj)
+
+    // 2.隔行换色-js原生
+    // var objs = document.getElementsByClassName('city')
+    // for (var i = 0; i < objs.length; i++) {
+    //     if (i % 2 == 0){
+    //         objs[i].style.backgroundColor = 'red'
+    //     }else {
+    //         objs[i].style.backgroundColor = 'yellow'
+    //     }
+    //         }
+    // 2.隔行换色-js原生
+    // $('li:odd').css('backgroundColor','red') //奇数
+    // $('li:even').css({'backgroundColor':'yellow'}) //偶数
+</script>
+</html>
