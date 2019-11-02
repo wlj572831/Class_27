@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+<button id="all">全选</button>
+<button id="reverse">反选</button>
+<button id="cancel">取消</button>
+<table border="1">
+    <thead>
+    <tr>
+        <th>#</th>
+        <th>姓名</th>
+        <th>爱好</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td><input type="checkbox"></td>
+        <td>金老板</td>
+        <td>开车</td>
+    </tr>
+    <tr>
+        <td><input type="checkbox"></td>
+        <td>alex</td>
+        <td>抽烟、喝酒、烫头</td>
+    </tr>
+    <tr>
+        <td><input type="checkbox"></td>
+        <td>苑昊（苑局）</td>
+        <td>不洗头、不翻车、不要脸</td>
+    </tr>
+    </tbody>
+</table>
+
+<script src="jQuery3.4.1.js"></script>
+<script>
+    $("#all").click(function () {
+        $(":checkbox").prop('checked', true);
+    });
+    $("#cancel").on("click", function () {
+        $(":checkbox").prop('checked', false);
+    });
+    $("#reverse").click(function () {
+        var $checkbox = $(":checkbox");
+        for (var i = 0; i < $checkbox.length; i++) {
+            // 获取原来的选中与否的状态
+            var status = $($checkbox[i]).prop('checked');
+            $($checkbox[i]).prop('checked', !status);
+        }
+    })
+
+</script>
+</body>
+</html>
