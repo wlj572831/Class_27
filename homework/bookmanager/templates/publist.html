@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<table border="1">
+    <thead>
+    <tr>
+        <th>序号</th>
+        <th>ID</th>
+        <th>名称</th>
+    </tr>
+    </thead>
+    <tbody>
+    {% for all_publisher in all_publishers %}
+        <tr>
+            <td>{{ forloop.counter }}</td>
+            <td>{{ all_publisher.id }}</td>
+            <td>{{ all_publisher.name }}</td>
+            <td>
+                <a href="/publisher_del/?pk={{ publisher.pk }}">删除</a>
+            </td>
+        </tr>
+    {% endfor %}
+
+    </tbody>
+</table>
+
+</body>
+</html>
