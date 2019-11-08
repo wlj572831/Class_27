@@ -22,5 +22,6 @@ urlpatterns = [
     url('index/', views.index),
     url('show_publist/', views.show_publist),
     url('add_pub/', views.add_pub),
-    url('del_pub', views.del_pub),
+    url('del_pub/', views.del_pub),
+    url('alter_pub/', views.alt_pub)
 ]
