@@ -3,14 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="e83824cd-638e-48bb-906c-baba6e6f96b5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/bookmanager/.idea/bookmanager.iml" beforeDir="false" afterPath="$PROJECT_DIR$/homework/bookmanager/.idea/bookmanager.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/bookmanager/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/homework/bookmanager/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/bookmanager/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/homework/bookmanager/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/bookmanager/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/homework/bookmanager/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day15_django/mysite/app001/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/day15_django/mysite/app001/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework/bookmanager/.idea/dataSources/66328576-58ef-4c9b-add4-980c6fac704b.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/homework/bookmanager/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/homework/bookmanager/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/bookmanager/app01/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework/bookmanager/app01/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/bookmanager/bookmanager/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework/bookmanager/bookmanager/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/bookmanager/templates/publist.html" beforeDir="false" afterPath="$PROJECT_DIR$/homework/bookmanager/templates/publist.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework/bookmanager/bookmanager/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework/bookmanager/bookmanager/settings.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -73,7 +69,7 @@
         <entry file="file://$PROJECT_DIR$/day15_django/mysite/app001/views.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="475">
-              <caret line="25" column="62" selection-start-line="25" selection-start-column="62" selection-end-line="25" selection-end-column="62" />
+              <caret line="25" column="63" selection-start-line="25" selection-start-column="63" selection-end-line="25" selection-end-column="63" />
               <folding>
                 <element signature="e#26#85#0" expanded="true" />
               </folding>
@@ -129,7 +125,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/day05/课下/作业/test.py" />
         <option value="$PROJECT_DIR$/day05/课下/作业/正则表达式.py" />
         <option value="$PROJECT_DIR$/day05/课下/作业/正则-计算器.py" />
         <option value="$PROJECT_DIR$/day05/课下/作业/三级菜单-递归.py" />
@@ -180,12 +175,13 @@
         <option value="$PROJECT_DIR$/作业/day14_反选框/反选框.html" />
         <option value="$PROJECT_DIR$/day15_django/__init__.py" />
         <option value="$PROJECT_DIR$/day15_django/mysite/mysite/urls.py" />
+        <option value="$PROJECT_DIR$/day15_django/mysite/app001/views.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="54" />
-    <option name="y" value="5" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="168" />
+    <option name="y" value="87" />
     <option name="width" value="1300" />
     <option name="height" value="964" />
   </component>
@@ -414,17 +410,17 @@
       <workItem from="1572832828169" duration="10669000" />
       <workItem from="1573090184047" duration="618000" />
       <workItem from="1573178174929" duration="1501000" />
+      <workItem from="1573271308434" duration="1524000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="242271000" />
+    <option name="totallyTimeSpent" value="243795000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="54" y="5" width="1300" height="964" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7638889" visible="true" weight="0.15645161" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7638889" visible="true" weight="0.10501066" />
       <window_info id="Structure" order="1" sideWeight="0.2361111" side_tool="true" weight="0.15695792" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -444,7 +440,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" />
-      <window_info anchor="right" id="Database" order="4" visible="true" weight="0.14435484" />
+      <window_info anchor="right" id="Database" order="4" visible="true" weight="0.09541578" />
     </layout>
     <layout-to-restore>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7638889" visible="true" weight="0.19354838" />
@@ -843,7 +839,7 @@
     <entry file="file://$PROJECT_DIR$/day15_django/mysite/app001/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="475">
-          <caret line="25" column="62" selection-start-line="25" selection-start-column="62" selection-end-line="25" selection-end-column="62" />
+          <caret line="25" column="63" selection-start-line="25" selection-start-column="63" selection-end-line="25" selection-end-column="63" />
           <folding>
             <element signature="e#26#85#0" expanded="true" />
           </folding>

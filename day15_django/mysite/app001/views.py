@@ -23,5 +23,5 @@ def login(request):
         if user == 'alex' and pwd == 'alex3714':
             return redirect('/index/')
         else:
-            return render(request, 'login.html', {'error': '输入用户名或密码错误'})
+            return render(request, 'login.html', {'error': '输入 用户名或密码错误'})
     return render(request, 'login.html')
