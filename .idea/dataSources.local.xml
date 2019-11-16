@@ -4,10 +4,12 @@
     <data-source name="wlj_db@localhost" uuid="0a6f431b-6819-43bb-8403-0f85c91b5d76">
       <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="MYSQL" exact-version="0" />
       <secret-storage>forget</secret-storage>
+      <schema-mapping />
     </data-source>
     <data-source name="db" uuid="7ada9d3c-5cbd-49a9-8dc4-d0021737f413">
       <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="SQLITE" exact-version="0" />
       <auth-required>false</auth-required>
+      <schema-mapping />
     </data-source>
   </component>
 </project>
